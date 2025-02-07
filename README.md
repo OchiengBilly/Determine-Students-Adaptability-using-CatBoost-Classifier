@@ -38,10 +38,10 @@ Four machine learning models were trained and evaluated to determine which model
 
 | Model                | Accuracy (%) |  
 |----------------------|-------------|  
-| **Logistic Regression** | 75.20          |  
-| **Decision Tree**      | 95.04          |  
-| **Random Forest**     | 94.21          |  
-| **CatBoost**          | 94.21          |  
+| **Logistic Regression** | 70.24          |  
+| **Decision Tree**      | 95.86          |  
+| **Random Forest**     | 93.39          |  
+| **CatBoost**          | 95.04          |  
 
 - The **Decision Tree model** performed the best with **95% accuracy**.  
 - **Random Forest and CatBoost** also achieved high accuracy (**94%**).  
